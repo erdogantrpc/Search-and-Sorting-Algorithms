@@ -8,7 +8,7 @@ Ek olarak Pyhton için platformlar arası arayüz desteği sunan `PyQt5` eklenti
 ```
 pip3 install pyqt5
 ```
-Programı çalıştırabilmek için indirdiğiniz dosyada ana dizin içerisinde komut satırını (CMD) başlatıp aşağıdaki kodu çalıştırmanız yeterlidir:
+Programı çalıştırabilmek için indirdiğiniz dosyada ana dizin içerisinde komut satırını başlatıp aşağıdaki kodu çalıştırmanız yeterlidir:
 ```
 python Uygulama.py
 ```
